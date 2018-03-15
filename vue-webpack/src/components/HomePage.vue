@@ -27,7 +27,7 @@
    </div>
    </div>
    <div class="footer" style="position: fixed; right: 0;bottom: 0;left: 0; padding: 1rem;background-color: white;
-  text-align: center; color:gray;"><a href="https://github.com/ry98/creative3" style="color: #666;">My Github</a></div>
+  text-align: center; color:gray;"><a href="https://github.com/ry98/creative4" style="color: #666;">My Github</a></div>
 
    </body>
 </template>
